@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://github.com/AibekShergazy/portfolio.github.io
+ https://aibekshergazy.github.io/portfolio/
